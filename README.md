@@ -11,5 +11,5 @@ This project demonstrates template matching on videos using OpenCV in Python. It
 
 ## Requirements
 
-- Python 3.x
+- Python 3.7
 - OpenCV
